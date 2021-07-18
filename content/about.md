@@ -3,6 +3,14 @@ author: David Bell
 title: About
 ---
 
-# Hey there :wave:
+## Hey there :wave:
 
 My name is David Bell and I'm a data scientist from Seattle, Washington/Palmer, Alaska. I love all things data science - data viz, data wrangling, machine learning, statistics, and analytics. I love television and film, podcasts, sports, tech, and above all, esports. 
+
+Here are some of my favorite podcasts:
+
+* [Straight Fire with Jason McIntyre](https://podcasts.apple.com/us/podcast/straight-fire-with-jason-mcintyre/id1523353907)
+* [The Herd with Colin Cowherd](https://podcasts.apple.com/us/podcast/the-herd-with-colin-cowherd/id1042368254)
+* [The Lost Drive-In](https://podcasts.apple.com/us/podcast/the-lost-drive-in/id1478839226)
+* [The X-Files Podcast](https://podcasts.apple.com/us/podcast/the-x-files-podcast/id1066085248)
+* [The Colin Cowherd Podcast](https://podcasts.apple.com/us/podcast/the-colin-cowherd-podcast/id1551365571)
