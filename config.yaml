@@ -17,9 +17,6 @@ languages:
         - identifier: about
           name: About
           url: /about
-        - identifier: showcase
-          name: Showcase
-          url: /showcase
     menuMore: Show more
     params:
       logo:
