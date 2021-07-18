@@ -1,22 +1,18 @@
 ---
-author: Radek
-date: "2019-01-25"
+author: David Bell
 title: About
+blogdown::html_page:
+  md_extensions: +emoji
 ---
 
-# Hi there
+## Hey there :wave:
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+My name is David Bell and I'm a data scientist from Seattle, Washington/Palmer, Alaska. I love all things data science - data viz, data wrangling, machine learning, statistics, and analytics. I love television and film, music (mainly listening, although I do play), podcasts, sports, tech, and above all, esports. 
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+Here are some of my favorite podcasts:
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!
+* [Straight Fire with Jason McIntyre](https://podcasts.apple.com/us/podcast/straight-fire-with-jason-mcintyre/id1523353907)
+* [The Herd with Colin Cowherd](https://podcasts.apple.com/us/podcast/the-herd-with-colin-cowherd/id1042368254)
+* [The Lost Drive-In](https://podcasts.apple.com/us/podcast/the-lost-drive-in/id1478839226)
+* [The X-Files Podcast](https://podcasts.apple.com/us/podcast/the-x-files-podcast/id1066085248)
+* [The Colin Cowherd Podcast](https://podcasts.apple.com/us/podcast/the-colin-cowherd-podcast/id1551365571)
