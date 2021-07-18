@@ -1,6 +1,8 @@
 ---
 author: David Bell
 title: About
+blogdown::html_page:
+  md_extensions: +emoji
 ---
 
 ## Hey there :wave:
