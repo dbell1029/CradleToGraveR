@@ -1,13 +1,13 @@
 ---
 author: David Bell
 title: About
-blogdown::html_page:
-  md_extensions: +emoji
 ---
 
-## Hey there
-
 My name is David Bell and I'm a data scientist from Seattle, Washington/Palmer, Alaska. I love all things data science - data viz, data wrangling, machine learning, statistics, and analytics. I love television and film, music (mainly listening, although I do play), podcasts, sports, tech, and above all, esports. 
+
+* [GitHub](https://github.com/dbell1029/)
+* [LinkedIn](https://www.linkedin.com/in/belldavidb/)
+* [Instagram](https://www.instagram.com/davidbjornbell/)
 
 Here are some of my favorite podcasts:
 
