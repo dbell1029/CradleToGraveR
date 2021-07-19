@@ -1,3 +1,1 @@
-# CradleToGraveR
-
 My blog repo.
