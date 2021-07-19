@@ -17,6 +17,9 @@ languages:
         - identifier: about
           name: About
           url: /about
+        - identifier: resumé
+          name: Resumé
+          url: /resume
     menuMore: Show more
     params:
       logo:
