@@ -5,7 +5,7 @@ paginate: 5
 params:
   centerTheme: no
   contentTypeName: post
-  fullWidthTheme: no
+  fullWidthTheme: yes
   showMenuItems: 2
   themeColor: blue
 languages:
