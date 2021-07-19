@@ -12,13 +12,13 @@
 * VP of Outreach and Data Science Bootcamp Instructor for BYU-I’s Data Science Society 
 
 ### Data Science Skills/Experience
-* Data wrangling in R usingdplyr (filter(),arrange(),mutate()andselect())
-* Data visualization in R, specifically GGPlot (scatterplots, bar charts, boxplots, histograms, etc.)
-* Data wrangling in Python using Pandas
-* Data visualization in Python using Matplotlib, Altair, and Seaborn
-* Retrieving data from databases using SQL (SELECT, WHERE, FROM, GROUP BY, etc.)
+* Data wrangling in R using `dplyr` (`filter()`, `arrange()`, `mutate()`, and `select()`)
+* Data visualization in R, specifically `GGPlot` (scatterplots, bar charts, boxplots, histograms, etc.)
+* Data wrangling in Python using `Pandas`
+* Data visualization in Python using `Matplotlib`, `Altair`, and `Seaborn`
+* Retrieving data from databases using SQL (`SELECT`, `WHERE`, `GROUP BY`, `HAVING`, etc.)
 * Creating tables via joins using SQL
 * Exploring, cleaning, and visualizing data using Spark SQL and PySpark
-* Machine learning in PySpark (Databricks) using MLlib
-* Building, training, and testing regressor and classifier machine learning models using SKLearn
+* Machine learning in PySpark (Databricks) using `MLlib`
+* Building, training, and testing regressor and classifier machine learning models using `SKLearn`
 * Passion for solving problems with data
